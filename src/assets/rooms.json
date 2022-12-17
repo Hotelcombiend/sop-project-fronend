@@ -1,0 +1,31 @@
+[
+    {
+        "id": 0,
+        "name": "smallroom",
+        "img": "https://play-lh.googleusercontent.com/4l6KNCI3rtEswyfnlcHBk4bu22B1LPbgr65Gu9OCButrQUlyoWE_gIGu4QaQMjNeAKo",
+        "detail": "ห้องนี้เป็นห้องที่มีขนาดเล็กที่สุดสามารถจุคนได้ 2-4 คนเหมาะสำหรับคนที่มาร้องเพลงกับเพื่อนจำนวนน้อยๆ จะมีไมค์เริ่มต้นให้ 2 อัน",
+        "price": "500"
+    },
+    {
+        "id": 1,
+        "name": "mediuamroom",
+        "img": "https://play-lh.googleusercontent.com/4l6KNCI3rtEswyfnlcHBk4bu22B1LPbgr65Gu9OCButrQUlyoWE_gIGu4QaQMjNeAKo",
+        "detail": "ห้องนี้เป็นห้องที่มีขนาดกลางสามารถจุคนได้ 5-11 คนเหมาะสำหรับคนที่มาร้องเพลงกับเพื่อนจำนวนมากขึ้น จะมีไมค์เริ่มต้นให้ 5 อัน",
+        "price": "2500"
+    },
+    {
+        "id": 2,
+        "name": "largeroom",
+        "img": "https://play-lh.googleusercontent.com/4l6KNCI3rtEswyfnlcHBk4bu22B1LPbgr65Gu9OCButrQUlyoWE_gIGu4QaQMjNeAKo",
+        "detail": "ห้องนี้เป็นห้องที่มีขนาดใหญ่สามารถจุคนได้ 12-19 คนเหมาะสำหรับงานเลี้ยงสังสรรค์ของบริษัทขนาดเล็ก จะมีไมค์เริ่มต้นให้ 12 อัน",
+        "price": "3500"
+    },
+    {
+        "id": 3,
+        "name": "partyroom",
+        "img": "https://play-lh.googleusercontent.com/4l6KNCI3rtEswyfnlcHBk4bu22B1LPbgr65Gu9OCButrQUlyoWE_gIGu4QaQMjNeAKo",
+        "detail": "ห้องนี้เป็นห้องพิเศษเหมาะสำหรับจัดปาร์ตี้ขนาดใหญ่มากๆสำหรับงานจัดเลี้ยงของบริษัทขนาดกลางถึงใหญ่ สามารถจุคนได้ 20-50 คนจะมีไมค์เริ่มต้นให้ 20 อัน",
+        "price": "5500"
+    }
+
+]
